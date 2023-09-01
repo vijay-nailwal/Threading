@@ -10,7 +10,7 @@ public class ThreadLocalDemo2 {
                 return "abc";
             }
         };
-        System.out.println(t1.get());//null
+        System.out.println(t1.get());//abc
         t1.set("vijay");
         System.out.println(t1.get());//vijay
         t1.remove();
