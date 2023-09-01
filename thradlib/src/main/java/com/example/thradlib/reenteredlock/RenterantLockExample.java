@@ -1,7 +1,5 @@
 package com.example.thradlib.reenteredlock;
 
-import com.example.thradlib.MyThread8;
-
 import java.util.concurrent.locks.ReentrantLock;
 
 /**

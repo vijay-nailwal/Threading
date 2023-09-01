@@ -1,4 +1,4 @@
-package com.example.thradlib;
+package com.example.thradlib.priority;
 
 /**
  * Created by Vijay on 27-08-2023.

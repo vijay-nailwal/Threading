@@ -1,4 +1,4 @@
-package com.example.thradlib;
+package com.example.thradlib.runnable_thread;
 
  class MyThread extends Thread{
      @Override
